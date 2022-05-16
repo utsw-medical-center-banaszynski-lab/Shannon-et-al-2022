@@ -1,4 +1,4 @@
-# Shannon-et-al-2022
+# Shannon-et-al-2022-MHR
 This repository contains code used in the upstream and downstream analyses for the following publication.
 
 
